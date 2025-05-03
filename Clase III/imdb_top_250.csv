@@ -1,0 +1,251 @@
+Rank,Title,Year,Rating,Runtime
+1,The Shawshank Redemption,1994,9.3,142
+2,The Godfather,1972,9.2,175
+3,The Dark Knight,2008,9,152
+4,The Godfather Part II,1974,9,202
+5,12 Angry Men,1957,9,96
+6,Schindler's List,1993,9,195
+7,The Lord of the Rings: The Return of the King,2003,8.9,201
+8,Pulp Fiction,1994,8.9,154
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,178
+10,The Good  the Bad and the Ugly,1966,8.8,178
+11,Forrest Gump,1994,8.8,142
+12,Fight Club,1999,8.8,139
+13,Inception,2010,8.8,148
+14,The Lord of the Rings: The Two Towers,2002,8.8,179
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,124
+16,The Matrix,1999,8.7,136
+17,Goodfellas,1990,8.7,146
+18,One Flew Over the Cuckoo's Nest,1975,8.7,133
+19,Seven Samurai,1954,8.7,207
+20,Se7en,1995,8.6,127
+21,City of God,2002,8.6,130
+22,Life Is Beautiful,1997,8.6,116
+23,The Silence of the Lambs,1991,8.6,118
+24,It's a Wonderful Life,1946,8.6,130
+25,Star Wars: Episode IV - A New Hope,1977,8.6,121
+26,Saving Private Ryan,1998,8.6,169
+27,Spirited Away,2001,8.6,125
+28,The Green Mile,1999,8.6,189
+29,Parasite,2019,8.6,132
+30,Interstellar,2014,8.6,169
+31,Léon: The Professional,1994,8.5,110
+32,The Lion King,1994,8.5,88
+33,Gladiator,2000,8.5,155
+34,American History X,1998,8.5,119
+35,The Departed,2006,8.5,151
+36,The Prestige,2006,8.5,130
+37,Whiplash,2014,8.5,106
+38,The Usual Suspects,1995,8.5,106
+39,Grave of the Fireflies,1988,8.5,89
+40,Casablanca,1942,8.5,102
+41,Harakiri,1962,8.5,133
+42,The Intouchables,2011,8.5,112
+43,Modern Times,1936,8.5,87
+44,Cinema Paradiso,1988,8.5,155
+45,Once Upon a Time in the West,1968,8.5,165
+46,Rear Window,1954,8.5,112
+47,Alien,1979,8.5,117
+48,City Lights,1931,8.5,87
+49,Apocalypse Now,1979,8.5,147
+50,Memento,2000,8.4,113
+51,Django Unchained,2012,8.4,165
+52,Raiders of the Lost Ark,1981,8.4,115
+53,WALL·E,2008,8.4,98
+54,The Lives of Others,2006,8.4,137
+55,Sunset Blvd.,1950,8.4,110
+56,Paths of Glory,1957,8.4,88
+57,The Great Dictator,1940,8.4,125
+58,The Shining,1980,8.4,146
+59,Witness for the Prosecution,1957,8.4,116
+60,Avengers: Infinity War,2018,8.4,149
+61,The Dark Knight Rises,2012,8.4,164
+62,Spider-Man: Into the Spider-Verse,2018,8.4,117
+63,Joker,2019,8.4,122
+64,Princess Mononoke,1997,8.4,134
+65,Oldboy,2003,8.4,120
+66,Your Name.,2016,8.4,106
+67,Aliens,1986,8.4,137
+68,Coco,2017,8.4,105
+69,American Beauty,1999,8.4,122
+70,Braveheart,1995,8.4,178
+71,Das Boot,1981,8.4,149
+72,3 Idiots,2009,8.4,170
+73,High and Low,1963,8.4,143
+74,Like Stars on Earth,2007,8.4,162
+75,Toy Story,1995,8.3,81
+76,Amadeus,1984,8.3,160
+77,Inglourious Basterds,2009,8.3,153
+78,Good Will Hunting,1997,8.3,126
+79,Star Wars: Episode VI - Return of the Jedi,1983,8.3,131
+80,Reservoir Dogs,1992,8.3,99
+81,2001: A Space Odyssey,1968,8.3,149
+82,Requiem for a Dream,2000,8.3,102
+83,Vertigo,1958,8.3,128
+84,Eternal Sunshine of the Spotless Mind,2004,8.3,108
+85,The Hunt,2012,8.3,115
+86,Citizen Kane,1941,8.3,119
+87,Lawrence of Arabia,1962,8.3,228
+88,M,1931,8.3,99
+89,Full Metal Jacket,1987,8.3,116
+90,North by Northwest,1959,8.3,136
+91,A Clockwork Orange,1971,8.3,136
+92,Singin' in the Rain,1952,8.3,103
+93,Snatch,2000,8.3,103
+94,Bicycle Thieves,1948,8.3,89
+95,Scarface,1983,8.3,170
+96,Taxi Driver,1976,8.3,114
+97,1917,2019,8.3,119
+98,Amelie,2001,8.3,122
+99,Come and See,1985,8.3,142
+100,The Kid,1921,8.3,68
+101,Full Metal Jacket,1987,8.3,116
+102,The Apartment,1960,8.3,125
+103,Toy Story 3,2010,8.3,103
+104,The Sting,1973,8.3,129
+105,Metropolis,1927,8.3,153
+106,Incendies,2010,8.3,131
+107,For a Few Dollars More,1965,8.3,132
+108,Indiana Jones and the Last Crusade,1989,8.2,127
+109,L.A. Confidential,1997,8.2,138
+110,Rashomon,1950,8.2,88
+111,A Separation,2011,8.2,123
+112,Batman Begins,2005,8.2,140
+113,Double Indemnity,1944,8.2,107
+114,To Kill a Mockingbird,1962,8.2,129
+115,The Great Escape,1963,8.2,172
+116,Up,2009,8.2,96
+117,Heat,1995,8.2,170
+118,Hamilton,2020,8.2,160
+119,Downfall,2004,8.2,156
+120,Ikiru,1952,8.2,143
+121,Ran,1985,8.2,162
+122,The Wolf of Wall Street,2013,8.2,180
+123,Die Hard,1988,8.2,132
+124,Casino,1995,8.2,178
+125,Pan's Labyrinth,2006,8.2,118
+126,Monty Python and the Holy Grail,1975,8.2,91
+127,There Will Be Blood,2007,8.2,158
+128,Raging Bull,1980,8.2,129
+129,A Beautiful Mind,2001,8.2,135
+130,The Secret in Their Eyes,2009,8.2,129
+131,Judgment at Nuremberg,1961,8.2,179
+132,Some Like It Hot,1959,8.2,121
+133,Unforgiven,1992,8.2,130
+134,The Truman Show,1998,8.2,103
+135,No Country for Old Men,2007,8.1,122
+136,Lock  Stock and Two Smoking Barrels,1998,8.1,107
+137,The Sixth Sense,1999,8.1,107
+138,The Treasure of the Sierra Madre,1948,8.1,126
+139,Jurassic Park,1993,8.1,127
+140,Shutter Island,2010,8.1,138
+141,The Terminator,1984,8.1,107
+142,The Thing,1982,8.1,109
+143,Finding Nemo,2003,8.1,100
+144,Chinatown,1974,8.1,130
+145,V for Vendetta,2005,8.1,132
+146,Inside Out,2015,8.1,95
+147,Kill Bill: Vol. 1,2003,8.1,111
+148,Dial M for Murder,1954,8.1,105
+149,The Bridge on the River Kwai,1957,8.1,161
+150,Gone with the Wind,1939,8.1,238
+151,Trainspotting,1996,8.1,93
+152,Prisoners,2013,8.1,153
+153,Fargo,1996,8.1,98
+154,Gran Torino,2008,8.1,116
+155,My Neighbor Totoro,1988,8.1,86
+156,Three Billboards Outside Ebbing Missouri,2017,8.1,115
+157,The Deer Hunter,1978,8.1,183
+158,Klaus,2019,8.1,96
+159,On the Waterfront,1954,8.1,108
+160,Warrior,2011,8.1,140
+161,Wild Strawberries,1957,8.1,91
+162,The Elephant Man,1980,8.1,124
+163,The Seventh Seal,1957,8.1,96
+164,Room,2015,8.1,118
+165,The Big Lebowski,1998,8.1,117
+166,The Third Man,1949,8.1,104
+167,Blade Runner,1982,8.1,117
+168,The General,1926,8.1,78
+169,How to Train Your Dragon,2010,8.1,98
+170,Before Sunrise,1995,8.1,101
+171,Ben-Hur,1959,8.1,212
+172,Mad Max: Fury Road,2015,8.1,120
+173,12 Years a Slave,2013,8.1,134
+174,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,130
+175,Gone Girl,2014,8.1,149
+176,The Grand Budapest Hotel,2014,8.1,99
+177,Catch Me If You Can,2002,8.1,141
+178,Barry Lyndon,1975,8.1,185
+179,In the Name of the Father,1993,8.1,133
+180,The Gold Rush,1925,8.1,95
+181,Hacksaw Ridge,2016,8.1,139
+182,Wild Tales,2014,8.1,122
+183,Sherlock Jr.,1924,8.1,45
+184,The Wages of Fear,1953,8.1,131
+185,Mr. Smith Goes to Washington,1939,8.1,129
+186,Memories of Murder,2003,8.1,131
+187,Network,1976,8.1,121
+188,Ratatouille,2007,8,111
+189,Stand by Me,1986,8,89
+190,Into the Wild,2007,8,148
+191,Ford v Ferrari,2019,8,152
+192,The Passion of Joan of Arc,1928,8,97
+193,Hotel Rwanda,2004,8,121
+194,Stalker,1979,8,162
+195,A Streetcar Named Desire,1951,8,122
+196,Platoon,1986,8,120
+197,Spotlight,2015,8,129
+198,Logan,2017,8,137
+199,Rush,2013,8,123
+200,The Terminator 2: Judgment Day,1991,8,137
+201,Life of Brian,1979,8,94
+202,The Exorcist,1973,8,122
+203,Groundhog Day,1993,8,101
+204,Tokyo Story,1953,8,136
+205,Rocky,1976,8,120
+206,Amores Perros,2000,8,154
+207,Nausicaä of the Valley of the Wind,1984,8,117
+208,The Incredibles,2004,8,115
+209,Before Sunset,2004,8,80
+210,The Grapes of Wrath,1940,8,129
+211,Andrei Rublev,1966,8,205
+212,Rebecca,1940,8,130
+213,Cool Hand Luke,1967,8,127
+214,To Be or Not to Be,1942,8,99
+215,The Battle of Algiers,1966,8,121
+216,Hachi: A Dog's Tale,2009,8,93
+217,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8,143
+218,Pather Panchali,1955,8,125
+219,The Handmaiden,2016,8,145
+220,My Father and My Son,2005,8,112
+221,The 400 Blows,1959,8,99
+222,It Happened One Night,1934,8,105
+223,La Haine,1995,8,98
+224,The Princess Bride,1987,8,98
+225,The Sound of Music,1965,8,172
+226,Persona,1966,8,85
+227,The Help,2011,8,146
+228,Beauty and the Beast,1991,8,84
+229,Dead Poets Society,1989,8,128
+230,Central Station,1998,8,113
+231,Aladdin,1992,8,90
+232,Howl's Moving Castle,2004,8,119
+233,The Iron Giant,1999,8,86
+234,Fanny and Alexander,1982,8,312
+235,White Heat,1949,8,114
+236,Drishyam,2013,8,160
+237,The Bandit,1996,8,128
+238,In the Mood for Love,2000,8,98
+239,Paris Texas,1984,8,145
+240,Castle in the Sky,1986,8,125
+241,The Red Shoes,1948,8,135
+242,Underground,1995,8,170
+243,The Hustler,1961,8,134
+244,A Woman Under the Influence,1974,8,155
+245,Mary and Max,2009,8,92
+246,Dersu Uzala,1975,8,142
+247,Monsters  Inc.,2001,8,92
+248,Miracle in Cell No. 7,2019,8,132
+249,Children of Heaven,1997,8,89
+250,All About Eve,1950,8,138
